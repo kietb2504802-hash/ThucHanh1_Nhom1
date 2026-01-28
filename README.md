@@ -1,7 +1,7 @@
 # BÀI THỰC HÀNH 01: ỨNG DỤNG AI TRONG CẤU HÌNH VÀ GIẢI QUYẾT SỰ CỐ
-Họ Và Tên: Nguyễn Vươn ANh Kiệt (MSSV: B2504802)
-           Phạm Vĩnh Khang (MSSV: B2504799)
-           Phạm Đặng Đăng Khoa(MSSV : B2504800)
+Họ Và Tên: Nguyễn Vươn ANh Kiệt (MSSV: B2504802)           
+           Phạm Vĩnh Khang (MSSV: B2504799)           
+           Phạm Đặng Đăng Khoa(MSSV : B2504800)           
            Nguyễn Trung Mãi(MSVV: B2504805)
 
 ## Mục tiêu
